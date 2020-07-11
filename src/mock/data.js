@@ -33,7 +33,7 @@ export const projectsData = [
     info: 'A realistic space invaders game made with js.',
     info2: '',
     url: 'https://juesoft.github.io/SpaceShooter.html',
-    repo: 'https://juesoft.github.io/JUEsoft/blob/master/SpaceShooter.html', // if no repo, the button will not show up
+    repo: 'https://github.com/JUEsoft/juesoft.github.io/blob/master/SpaceShooter.html', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -42,7 +42,7 @@ export const projectsData = [
     info: 'All the details of the popular SAMSUNG GALAXY 20.',
     info2: '',
     url: 'https://juesoft.github.io/S20.html',
-    repo: 'https://github.com/JUEsoft/blob/master/juesoft.github.io/S20.html', // if no repo, the button will not show up
+    repo: 'https://github.com/JUEsoft/juesoft.github.io/blob/master/S20.html', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -51,7 +51,7 @@ export const projectsData = [
     info: 'A ball of glittering light show.',
     info2: '',
     url: 'https://juesoft.github.io/Glittering.html',
-    repo: 'https://github.com/JUEsoft/blob/master/juesoft.github.io/Glittering.html', // if no repo, the button will not show up
+    repo: 'https://github.com/JUEsoft/juesoft.github.io/blob/master/Glittering.html', // if no repo, the button will not show up
   },
 ];
 
