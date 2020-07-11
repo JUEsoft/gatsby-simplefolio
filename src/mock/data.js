@@ -18,8 +18,8 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'Im Emmanuel Emejulu, a 16yrs old web and app developer',
-  paragraphTwo: 'I have over 3yrs experience in computer programming',
+  paragraphOne: 'Im Emmanuel Emejulu, a 16yrs old web and app developer.',
+  paragraphTwo: 'I have over 3yrs experience in computer programming.',
   paragraphThree: 'Im also available for remote works.',
   resume: 'https://www.linkedin.com/mwlite/in/emmanuel-emejulu-a7747b195', // if no resume, the button will not show up
 };
@@ -33,7 +33,7 @@ export const projectsData = [
     info: 'A realistic space invaders game made with js.',
     info2: '',
     url: 'https://juesoft.github.io/SpaceShooter.html',
-    repo: 'https://github.com/juesoft.github.io/SpaceShooter.html', // if no repo, the button will not show up
+    repo: 'https://juesoft.github.io/juesoft/SpaceShooter.html', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -42,8 +42,8 @@ export const projectsData = [
     info: 'All the details of the popular SAMSUNG GALAXY 20.',
     info2: '',
     url: 'https://juesoft.github.io/S20.html',
-    repo: 'https://github.com/juesoft.github.io/S20.html', // if no repo, the button will not show up
-  },
+    repo: 'https://github.com/juesoft/juesoft.github.io/S20.html', // if no repo, the button will not show up
+  }
   {
     id: nanoid(),
     img: 'Ball.jpg',
@@ -51,7 +51,7 @@ export const projectsData = [
     info: 'A ball of glittering light show.',
     info2: '',
     url: 'https://juesoft.github.io/Glittering.html',
-    repo: 'https://github.com/juesoft.github.io/Glittering.html', // if no repo, the button will not show up
+    repo: 'https://github.com/juesoft/juesoft.github.io/Glittering.html', // if no repo, the button will not show up
   },
 ];
 
