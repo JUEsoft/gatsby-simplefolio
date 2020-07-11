@@ -28,30 +28,30 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'Space.jpg',
+    title: 'SPACE SHOOTER GAME',
+    info: 'A realistic space invaders game made with js.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/', // if no repo, the button will not show up
+    url: 'https://juesoft.github.io/SpaceShooter.html',
+    repo: 'https://github.com/juesoft.github.io/SpaceShooter.html', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'S20.jpg',
+    title: 'SAMSUNG GALAXY S20 FEATURE',
+    info: 'All the details of the popular SAMSUNG GALAXY 20.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/', // if no repo, the button will not show up
+    url: 'https://juesoft.github.io/S20.html',
+    repo: 'https://github.com/juesoft.github.io/S20.html', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'Ball.jpg',
+    title: 'GLITTERING BALL',
+    info: 'A ball of glittering light show.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/', // if no repo, the button will not show up
+    url: 'https://juesoft.github.io/Glittering.html',
+    repo: 'https://github.com/juesoft.github.io/Glittering.html', // if no repo, the button will not show up
   },
 ];
 
@@ -68,27 +68,27 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: '',
+      url: 'https://twitter.com/emejuluCodes',
     },
     {
       id: nanoid(),
-      name: 'codepen',
-      url: '',
+      name: 'facebook',
+      url: 'https://facebook.com/Emejulu.Officials',
     },
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/mwlite/in/emmanuel-emejulu-a7747b195',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/juesoft',
     },
   ],
 };
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: true, // set to false to disable the GitHub stars/fork buttons
 };
