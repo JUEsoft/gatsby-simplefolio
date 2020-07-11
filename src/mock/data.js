@@ -43,7 +43,7 @@ export const projectsData = [
     info2: '',
     url: 'https://juesoft.github.io/S20.html',
     repo: 'https://github.com/juesoft/juesoft.github.io/S20.html', // if no repo, the button will not show up
-  }
+  },
   {
     id: nanoid(),
     img: 'Ball.jpg',
