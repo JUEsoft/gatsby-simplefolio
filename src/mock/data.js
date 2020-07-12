@@ -20,7 +20,7 @@ export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: " I'm Emmanuel Emejulu, a 16yrs old web and app developer.",
   paragraphTwo: 'I have over 3yrs experience in computer programming with full-stack development skills.',
-  paragraphThree: 'Im also available for remote works.',
+  paragraphThree: "I'm also available for remote works.",
   resume: 'https://juesoft.github.io', // if no resume, the button will not show up
 };
 
