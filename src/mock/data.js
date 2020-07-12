@@ -18,10 +18,10 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'Im Emmanuel Emejulu, a 16yrs old web and app developer.',
-  paragraphTwo: 'I have over 3yrs experience in computer programming.',
+  paragraphOne: " I'm Emmanuel Emejulu, a 16yrs old web and app developer.",
+  paragraphTwo: 'I have over 3yrs experience in computer programming with full-stack development skills.',
   paragraphThree: 'Im also available for remote works.',
-  resume: 'https://www.linkedin.com/mwlite/in/emmanuel-emejulu-a7747b195', // if no resume, the button will not show up
+  resume: 'https://juesoft.github.io', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -82,8 +82,8 @@ export const footerData = {
     },
     {
       id: nanoid(),
-      name: 'github',
-      url: 'https://github.com/juesoft',
+      name: 'instagram',
+      url: 'https://www.instagram.com/emmanuel_emejulu/',
     },
   ],
 };
