@@ -41,10 +41,10 @@ const About = () => {
                   {paragraphOne || 'Loading Info...'}
                 </p>
                 <p className="about-wrapper__info-text">
-                  {paragraphTwo || 'Browser not supported'}
+                  {paragraphTwo || 'Browser not supported, upgrade to a supported browser to preview.'}
                 </p>
                 <p className="about-wrapper__info-text">
-                  {paragraphThree || 'Please enable JavaScript'}
+                  {paragraphThree || 'Please enable JavaScript.'}
                 </p>
                 {resume && (
                   <span className="d-flex mt-3">
