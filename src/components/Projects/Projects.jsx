@@ -44,10 +44,9 @@ const Projects = () => {
                       <h3 className="project-wrapper__text-title">{title || 'Project Title'}</h3>
                       <div>
                         <p>
-                          {info ||
-                            'Loading projects(s)...'}
+                          {info || ''}
                         </p>
-                        <p className="mb-4">{info2 || 'Loading project(s)...'}</p>
+                        <p className="mb-4">{info2 || ''}</p>
                       </div>
                       <a
                         target="_blank"
