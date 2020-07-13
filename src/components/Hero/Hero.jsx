@@ -26,17 +26,17 @@ const Header = () => {
       <Container>
         <Fade left={isDesktop} bottom={isMobile} duration={1000} delay={500} distance="30px">
           <h1 className="hero-title">
-            {title || 'I am'}{' '}
-            <span className="text-color-main">{name || 'Emmanuel Emejulu'}</span>
+            {title || 'Please wait'}{' '}
+            <span className="text-color-main">{name || 'while my '}</span>
             <br />
-            {subtitle || "Founder of JUEsoft."}
+            {subtitle || "is opening..."}
           </h1>
         </Fade>
         <Fade left={isDesktop} bottom={isMobile} duration={1000} delay={1000} distance="30px">
           <p className="hero-cta">
             <span className="cta-btn cta-btn--hero">
               <Link to="about" smooth duration={1000}>
-                {cta || 'This is my portfolio'}
+                {cta || 'Loading...'}
               </Link>
             </span>
           </p>
