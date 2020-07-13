@@ -45,9 +45,9 @@ const Projects = () => {
                       <div>
                         <p>
                           {info ||
-                            'Loading projects...'}
+                            'Loading projects(s)...'}
                         </p>
-                        <p className="mb-4">{info2 || ''}</p>
+                        <p className="mb-4">{info2 || 'Loading project(s)...'}</p>
                       </div>
                       <a
                         target="_blank"
