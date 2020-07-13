@@ -38,13 +38,13 @@ const About = () => {
             <Fade left={isDesktop} bottom={isMobile} duration={1000} delay={1000} distance="30px">
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
-                  {paragraphOne || 'Loading Projects...'}
+                  {paragraphOne || 'Loading Info...'}
                 </p>
                 <p className="about-wrapper__info-text">
-                  {paragraphTwo || 'Loading Projects...'}
+                  {paragraphTwo || 'Browser not supported'}
                 </p>
                 <p className="about-wrapper__info-text">
-                  {paragraphThree || 'Loading Projects...'}
+                  {paragraphThree || 'Please enable JavaScript'}
                 </p>
                 {resume && (
                   <span className="d-flex mt-3">
@@ -54,7 +54,7 @@ const About = () => {
                       className="cta-btn cta-btn--resume"
                       href={resume}
                     >
-                      Resume
+                      Know More
                     </a>
                   </span>
                 )}
