@@ -22,7 +22,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Emmamuel Emejulu's Portfolio`,
+        name: `Emmanuel Emejulu's Portfolio`,
         short_name: `Emmanuel Emejulu's Portfolio`,
         start_url: `/`,
         background_color: `#6698FF`,
