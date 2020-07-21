@@ -46,7 +46,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'Bacteria.png',
+    img: 'bacteria.png',
     title: 'COVID-19 TRACKER.',
     info: 'Search countries and see the COVID-19 stats.',
     info2: '',
