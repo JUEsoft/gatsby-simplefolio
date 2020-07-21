@@ -46,12 +46,12 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'Ball.jpg',
-    title: 'GLITTERING BALL',
-    info: 'A ball of glittering light show.',
+    img: 'Bacteria.png',
+    title: 'COVID-19 TRACKER.',
+    info: 'Search countries and see the COVID-19 stats.',
     info2: '',
-    url: 'https://juesoft.github.io/Glittering.html',
-    repo: 'https://github.com/JUEsoft/juesoft.github.io/blob/master/Glittering.html', // if no repo, the button will not show up
+    url: 'https://bit.ly/EmejuluCOVID19',
+    repo: 'https://github.com/JUEsoft/COVID-19', // if no repo, the button will not show up
   },
 ];
 
