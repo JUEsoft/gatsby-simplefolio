@@ -37,12 +37,12 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'S20.jpg',
-    title: 'SAMSUNG GALAXY S20 FEATURE',
-    info: 'All the details of the popular SAMSUNG GALAXY 20.',
+    img: 'blog.png',
+    title: 'My Blog',
+    info: 'My Coding and Tech Blog',
     info2: '',
-    url: 'https://juesoft.github.io/S20.html',
-    repo: 'https://github.com/JUEsoft/juesoft.github.io/blob/master/S20.html', // if no repo, the button will not show up
+    url: 'https://emejulucodes.dev',
+    repo: 'https://github.com/emejulucodes/emejulucodes.dev', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -51,7 +51,7 @@ export const projectsData = [
     info: 'Search countries and see the COVID-19 stats.',
     info2: '',
     url: 'https://bit.ly/EmejuluCOVID19',
-    repo: 'https://github.com/JUEsoft/COVID-19', // if no repo, the button will not show up
+    repo: 'https://github.com/emejulucodes/COVID-19', // if no repo, the button will not show up
   },
 ];
 
